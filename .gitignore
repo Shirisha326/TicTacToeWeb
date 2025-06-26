@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/editor config files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Build/output directories
+node_modules/
+dist/
+build/
+*.class
+*.jar
